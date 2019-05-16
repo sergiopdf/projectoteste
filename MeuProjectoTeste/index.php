@@ -17,11 +17,3 @@ and open the template in the editor.
 </html>
 <input type="submit" value="" />
 
-
-qweda
-
-
-acdad
-
-
-
